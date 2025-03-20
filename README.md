@@ -34,11 +34,11 @@ bin/mirror.sh --user p5name --verbose
 
 ```
 # Edit this line for your editor.p5js user name
-bin/mirror.sh --user p5name
+bin/mirror.sh --user mango-jackson-gen1
 
-bin/mirror.sh --user p5name --clean
-bin/mirror.sh --user p5name --full
-bin/mirror.sh --user p5name --verbose
+bin/mirror.sh --user mango-jackson-gen1 --clean
+bin/mirror.sh --user mango-jackson-gen1 --full
+bin/mirror.sh --user mango-jackson-gen1 --verbose
 
 ```
 

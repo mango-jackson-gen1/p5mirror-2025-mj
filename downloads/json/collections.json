@@ -1,0 +1,3361 @@
+[
+  {
+    "_id": "InEtY5us-",
+    "name": "100days sand drawing",
+    "description": "",
+    "slug": "100days_sand_drawing",
+    "owner": {
+      "_id": "671849c6e3ef29a91fad7941",
+      "username": "mango-jackson-gen1",
+      "id": "671849c6e3ef29a91fad7941"
+    },
+    "items": [
+      {
+        "project": {
+          "_id": "Z-SjtAsjo",
+          "name": "100days sand drawing v4",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "100days_sand_drawing_v4",
+          "id": "Z-SjtAsjo"
+        },
+        "_id": "67cede5dcf28242e4d85c70c",
+        "createdAt": "2025-03-10T12:43:09.266Z",
+        "updatedAt": "2025-03-10T12:43:09.266Z",
+        "id": "67cede5dcf28242e4d85c70c",
+        "projectId": "Z-SjtAsjo",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "qioCCxq-a",
+          "name": "100days sand drawing v3",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "100days_sand_drawing_v2_copy",
+          "id": "qioCCxq-a"
+        },
+        "_id": "67cede5ead004fb444c25ac4",
+        "createdAt": "2025-03-10T12:43:10.107Z",
+        "updatedAt": "2025-03-10T12:43:10.107Z",
+        "id": "67cede5ead004fb444c25ac4",
+        "projectId": "qioCCxq-a",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "-qOj1xpXr",
+          "name": "100days sand drawing v2",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "100days_sand_drawing_v2",
+          "id": "-qOj1xpXr"
+        },
+        "_id": "67cede5effcdd3e338b1d4ca",
+        "createdAt": "2025-03-10T12:43:10.787Z",
+        "updatedAt": "2025-03-10T12:43:10.787Z",
+        "id": "67cede5effcdd3e338b1d4ca",
+        "projectId": "-qOj1xpXr",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "6Iv_FU_Fe",
+          "name": "100days sand drawing v1",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "100days_-_sand_drawing_v1",
+          "id": "6Iv_FU_Fe"
+        },
+        "_id": "67cede5fcf28242e4d85ccb7",
+        "createdAt": "2025-03-10T12:43:11.435Z",
+        "updatedAt": "2025-03-10T12:43:11.435Z",
+        "id": "67cede5fcf28242e4d85ccb7",
+        "projectId": "6Iv_FU_Fe",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "_NzQMPQdn",
+          "name": "100days sand drawing v5",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "100days_sand_drawing_v5",
+          "id": "_NzQMPQdn"
+        },
+        "_id": "67cede6bffcdd3e338b1e124",
+        "createdAt": "2025-03-10T12:43:23.292Z",
+        "updatedAt": "2025-03-10T12:43:23.292Z",
+        "id": "67cede6bffcdd3e338b1e124",
+        "projectId": "_NzQMPQdn",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "l69MomSQYc",
+          "name": "sketch sand drawing v5 animated",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "sketch_sand_drawing_v5_animated",
+          "id": "l69MomSQYc"
+        },
+        "_id": "67cee515add3ba74e7713fa7",
+        "createdAt": "2025-03-10T13:11:49.576Z",
+        "updatedAt": "2025-03-10T13:11:49.576Z",
+        "id": "67cee515add3ba74e7713fa7",
+        "projectId": "l69MomSQYc",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "Ddu0Xrq5B",
+          "name": "100days sand drawing v8",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "100days_sand_drawing_v7_copy",
+          "id": "Ddu0Xrq5B"
+        },
+        "_id": "67ceee055a6adbfd6459fd89",
+        "createdAt": "2025-03-10T13:49:57.497Z",
+        "updatedAt": "2025-03-10T13:49:57.497Z",
+        "id": "67ceee055a6adbfd6459fd89",
+        "projectId": "Ddu0Xrq5B",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "Zb4AH0RfF3",
+          "name": "100days sand drawing v7",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "100days_sand_drawing_v6_y_copy",
+          "id": "Zb4AH0RfF3"
+        },
+        "_id": "67ceee06105c87e557d7de26",
+        "createdAt": "2025-03-10T13:49:58.136Z",
+        "updatedAt": "2025-03-10T13:49:58.136Z",
+        "id": "67ceee06105c87e557d7de26",
+        "projectId": "Zb4AH0RfF3",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "d4BCWomOC5",
+          "name": "100days sand drawing v7.1",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "100days_sand_drawing_v4_copy",
+          "id": "d4BCWomOC5"
+        },
+        "_id": "67ceee09dd2102964dc59923",
+        "createdAt": "2025-03-10T13:50:01.244Z",
+        "updatedAt": "2025-03-10T13:50:01.244Z",
+        "id": "67ceee09dd2102964dc59923",
+        "projectId": "d4BCWomOC5",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "SjoMAPASk",
+          "name": "sand drawing template reference",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "sand_drawing_template_reference",
+          "id": "SjoMAPASk"
+        },
+        "_id": "67cef5bffa5f449f3d38f0b5",
+        "createdAt": "2025-03-10T14:22:55.320Z",
+        "updatedAt": "2025-03-10T14:22:55.320Z",
+        "id": "67cef5bffa5f449f3d38f0b5",
+        "projectId": "SjoMAPASk",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2025-03-10T12:43:06.190Z",
+    "updatedAt": "2025-03-10T14:22:55.320Z",
+    "__v": 10,
+    "id": "InEtY5us-"
+  },
+  {
+    "_id": "7J0_al9Ib",
+    "name": "11-100_Galaxy",
+    "description": "",
+    "slug": "11-100_Galaxy",
+    "owner": {
+      "_id": "671849c6e3ef29a91fad7941",
+      "username": "mango-jackson-gen1",
+      "id": "671849c6e3ef29a91fad7941"
+    },
+    "items": [
+      {
+        "project": {
+          "_id": "JgInTVqpo",
+          "name": "Galaxy1",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Galaxy1",
+          "id": "JgInTVqpo"
+        },
+        "_id": "67d6ffe63100737f9ef2fc2a",
+        "createdAt": "2025-03-16T16:44:22.034Z",
+        "updatedAt": "2025-03-16T16:44:22.034Z",
+        "id": "67d6ffe63100737f9ef2fc2a",
+        "projectId": "JgInTVqpo",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "wa3m11c0r",
+          "name": "Galaxy2_without webgl z position",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Galaxy1_copy",
+          "id": "wa3m11c0r"
+        },
+        "_id": "67d70257880aaf0014796edd",
+        "createdAt": "2025-03-16T16:54:47.118Z",
+        "updatedAt": "2025-03-16T16:54:47.118Z",
+        "id": "67d70257880aaf0014796edd",
+        "projectId": "wa3m11c0r",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "xJtaIe4L2",
+          "name": "Galaxy2_moving stars",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Galaxy2_without_webgl_z_position_copy",
+          "id": "xJtaIe4L2"
+        },
+        "_id": "67d70b4a3100737f9ef659a4",
+        "createdAt": "2025-03-16T17:32:58.862Z",
+        "updatedAt": "2025-03-16T17:32:58.862Z",
+        "id": "67d70b4a3100737f9ef659a4",
+        "projectId": "xJtaIe4L2",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2025-03-16T16:44:14.997Z",
+    "updatedAt": "2025-03-16T17:32:58.862Z",
+    "__v": 3,
+    "id": "7J0_al9Ib"
+  },
+  {
+    "_id": "tyQjlSZv-",
+    "name": "12_100_PaintDropping",
+    "description": "",
+    "slug": "12_100_PaintDropping",
+    "owner": {
+      "_id": "671849c6e3ef29a91fad7941",
+      "username": "mango-jackson-gen1",
+      "id": "671849c6e3ef29a91fad7941"
+    },
+    "items": [
+      {
+        "project": {
+          "_id": "tSiQk0Ug3l",
+          "name": "12_100_Paint_Rect4 copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "12_100_Paint_Rect4_copy",
+          "id": "tSiQk0Ug3l"
+        },
+        "_id": "67d733da35c36012aebb4705",
+        "createdAt": "2025-03-16T20:26:02.271Z",
+        "updatedAt": "2025-03-16T20:26:02.271Z",
+        "id": "67d733da35c36012aebb4705",
+        "projectId": "tSiQk0Ug3l",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "NFK7JqbR9",
+          "name": "12_100_Paint_Rect4",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "12_100_Paint_Rect3_copy",
+          "id": "NFK7JqbR9"
+        },
+        "_id": "67d733da880aaf001488d95b",
+        "createdAt": "2025-03-16T20:26:02.742Z",
+        "updatedAt": "2025-03-16T20:26:02.742Z",
+        "id": "67d733da880aaf001488d95b",
+        "projectId": "NFK7JqbR9",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "tPMvXQCO5",
+          "name": "12_100_Paint_Rect3",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "12_100_Paint_Rect2_copy",
+          "id": "tPMvXQCO5"
+        },
+        "_id": "67d733dbacea868a84c34adf",
+        "createdAt": "2025-03-16T20:26:03.352Z",
+        "updatedAt": "2025-03-16T20:26:03.352Z",
+        "id": "67d733dbacea868a84c34adf",
+        "projectId": "tPMvXQCO5",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "O7c40gaJ-",
+          "name": "12_100_Paint_Rect2",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "12_100_Paint_Rect2",
+          "id": "O7c40gaJ-"
+        },
+        "_id": "67d733dc35c36012aebb4715",
+        "createdAt": "2025-03-16T20:26:04.409Z",
+        "updatedAt": "2025-03-16T20:26:04.409Z",
+        "id": "67d733dc35c36012aebb4715",
+        "projectId": "O7c40gaJ-",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "CL2eMxmre",
+          "name": "12_100_Paint 2_Rectangle",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "12_100_Paint_2_Rectangle",
+          "id": "CL2eMxmre"
+        },
+        "_id": "67d733dd35c36012aebb4731",
+        "createdAt": "2025-03-16T20:26:05.533Z",
+        "updatedAt": "2025-03-16T20:26:05.533Z",
+        "id": "67d733dd35c36012aebb4731",
+        "projectId": "CL2eMxmre",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "uL39nOB2s",
+          "name": "12_100_paint too difficult",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "12_100_paint_too_difficult",
+          "id": "uL39nOB2s"
+        },
+        "_id": "67d736f3e91c1131a9d7486e",
+        "createdAt": "2025-03-16T20:39:15.671Z",
+        "updatedAt": "2025-03-16T20:39:15.671Z",
+        "id": "67d736f3e91c1131a9d7486e",
+        "projectId": "uL39nOB2s",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2025-03-16T20:25:59.462Z",
+    "updatedAt": "2025-03-16T20:39:15.671Z",
+    "__v": 6,
+    "id": "tyQjlSZv-"
+  },
+  {
+    "_id": "u1-lawlmV",
+    "name": "13_100_sin",
+    "description": "",
+    "slug": "13_100_sin",
+    "owner": {
+      "_id": "671849c6e3ef29a91fad7941",
+      "username": "mango-jackson-gen1",
+      "id": "671849c6e3ef29a91fad7941"
+    },
+    "items": [
+      {
+        "project": {
+          "_id": "A1cgB8r6n",
+          "name": "13_100_play with sin_1",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Sunrise_turkey",
+          "id": "A1cgB8r6n"
+        },
+        "_id": "67d76f24a362444bc50aa1b4",
+        "createdAt": "2025-03-17T00:39:00.151Z",
+        "updatedAt": "2025-03-17T00:39:00.151Z",
+        "id": "67d76f24a362444bc50aa1b4",
+        "projectId": "A1cgB8r6n",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "ZbYCwY0ZR",
+          "name": "13_100_play with sin2",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "13_100_play_with_sin_1_copy",
+          "id": "ZbYCwY0ZR"
+        },
+        "_id": "67d773516f58f8c0d583c78b",
+        "createdAt": "2025-03-17T00:56:49.217Z",
+        "updatedAt": "2025-03-17T00:56:49.217Z",
+        "id": "67d773516f58f8c0d583c78b",
+        "projectId": "ZbYCwY0ZR",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2025-03-17T00:38:57.561Z",
+    "updatedAt": "2025-03-17T00:56:49.217Z",
+    "__v": 2,
+    "id": "u1-lawlmV"
+  },
+  {
+    "_id": "pq4Mdr7Cy",
+    "name": "14_100_Illuminiated_music sheet",
+    "description": "",
+    "slug": "14_100_Illuminiated_music_sheet",
+    "owner": {
+      "_id": "671849c6e3ef29a91fad7941",
+      "username": "mango-jackson-gen1",
+      "id": "671849c6e3ef29a91fad7941"
+    },
+    "items": [
+      {
+        "project": {
+          "_id": "ANwNm8BBK",
+          "name": "14_100_Illuminated Manuscript_Music Sheet",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "14_100_Illuminated_Manuscript_Music_Sheet",
+          "id": "ANwNm8BBK"
+        },
+        "_id": "67d97ed272d0eddd018f4a3a",
+        "createdAt": "2025-03-18T14:10:26.645Z",
+        "updatedAt": "2025-03-18T14:10:26.645Z",
+        "id": "67d97ed272d0eddd018f4a3a",
+        "projectId": "ANwNm8BBK",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2025-03-18T14:10:22.937Z",
+    "updatedAt": "2025-03-18T14:10:26.645Z",
+    "__v": 1,
+    "id": "pq4Mdr7Cy"
+  },
+  {
+    "_id": "LZbsZ-f4I",
+    "name": "15_100_Weather",
+    "description": "",
+    "slug": "15_100_Weather",
+    "owner": {
+      "_id": "671849c6e3ef29a91fad7941",
+      "username": "mango-jackson-gen1",
+      "id": "671849c6e3ef29a91fad7941"
+    },
+    "items": [],
+    "createdAt": "2025-03-18T14:15:55.378Z",
+    "updatedAt": "2025-03-18T14:15:55.378Z",
+    "__v": 0,
+    "id": "LZbsZ-f4I"
+  },
+  {
+    "_id": "9g2ZK6xbW",
+    "name": "COM melody sketch",
+    "description": "",
+    "slug": "COM_melody_sketch",
+    "owner": {
+      "_id": "671849c6e3ef29a91fad7941",
+      "username": "mango-jackson-gen1",
+      "id": "671849c6e3ef29a91fad7941"
+    },
+    "items": [
+      {
+        "project": {
+          "_id": "enteJjcyq",
+          "name": "Melody v21 working update2",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Melody_v21_working_update1_copy",
+          "id": "enteJjcyq"
+        },
+        "_id": "67d05417f49c38724186b23d",
+        "createdAt": "2025-03-11T15:17:43.780Z",
+        "updatedAt": "2025-03-11T15:17:43.780Z",
+        "id": "67d05417f49c38724186b23d",
+        "projectId": "enteJjcyq",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "E-dxsmWmo",
+          "name": "Melody Sketch 5 Ryoji_Present",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Melody_Sketch_4_copy",
+          "id": "E-dxsmWmo"
+        },
+        "_id": "67d054768c2c074ac19e7930",
+        "createdAt": "2025-03-11T15:19:18.843Z",
+        "updatedAt": "2025-03-11T15:19:18.843Z",
+        "id": "67d054768c2c074ac19e7930",
+        "projectId": "E-dxsmWmo",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "D6i3IDCIS",
+          "name": "Melody Sketch 4 triads final",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Melody_Sketch_3_copy",
+          "id": "D6i3IDCIS"
+        },
+        "_id": "67d054775213ecf44373a76a",
+        "createdAt": "2025-03-11T15:19:19.501Z",
+        "updatedAt": "2025-03-11T15:19:19.501Z",
+        "id": "67d054775213ecf44373a76a",
+        "projectId": "D6i3IDCIS",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "8FMfrTPNE",
+          "name": "Melody Sketch 2 - randomized notes",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Melody_Sketch_2",
+          "id": "8FMfrTPNE"
+        },
+        "_id": "67d056ed5213ecf44375a52a",
+        "createdAt": "2025-03-11T15:29:49.172Z",
+        "updatedAt": "2025-03-11T15:29:49.172Z",
+        "id": "67d056ed5213ecf44375a52a",
+        "projectId": "8FMfrTPNE",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "EemG6kNWK",
+          "name": "Melody sketch 1 Elgar with keys",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Cooperative_teal",
+          "id": "EemG6kNWK"
+        },
+        "_id": "67d05714d7816af6961b83f4",
+        "createdAt": "2025-03-11T15:30:28.653Z",
+        "updatedAt": "2025-03-11T15:30:28.653Z",
+        "id": "67d05714d7816af6961b83f4",
+        "projectId": "EemG6kNWK",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "m1X-gYwHh",
+          "name": "Melody v22",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Melody_v21_working_update2_copy",
+          "id": "m1X-gYwHh"
+        },
+        "_id": "67d0ee9cb24b3486c67c422d",
+        "createdAt": "2025-03-12T02:17:00.139Z",
+        "updatedAt": "2025-03-12T02:17:00.139Z",
+        "id": "67d0ee9cb24b3486c67c422d",
+        "projectId": "m1X-gYwHh",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2025-03-11T15:17:39.052Z",
+    "updatedAt": "2025-03-12T02:17:00.139Z",
+    "__v": 6,
+    "id": "9g2ZK6xbW"
+  },
+  {
+    "_id": "_fM8Wtzps",
+    "name": "COM sequencer 1",
+    "description": "",
+    "slug": "COM_sequencer_1",
+    "owner": {
+      "_id": "671849c6e3ef29a91fad7941",
+      "username": "mango-jackson-gen1",
+      "id": "671849c6e3ef29a91fad7941"
+    },
+    "items": [
+      {
+        "project": {
+          "_id": "ZWpFC3lZ4",
+          "name": "Super difficult COM",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Super_difficult_COM",
+          "id": "ZWpFC3lZ4"
+        },
+        "_id": "67d378f83b87c5fbb0ca9323",
+        "createdAt": "2025-03-14T00:31:52.793Z",
+        "updatedAt": "2025-03-14T00:31:52.793Z",
+        "id": "67d378f83b87c5fbb0ca9323",
+        "projectId": "ZWpFC3lZ4",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "MLZoqRWyZ",
+          "name": "COM_ProjectRhythm_PianoPad",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Worksheet7_n_steps_n_tracks_-_circle_copy_copy",
+          "id": "MLZoqRWyZ"
+        },
+        "_id": "67d3790d3b87c5fbb0caac71",
+        "createdAt": "2025-03-14T00:32:13.334Z",
+        "updatedAt": "2025-03-14T00:32:13.334Z",
+        "id": "67d3790d3b87c5fbb0caac71",
+        "projectId": "MLZoqRWyZ",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2025-03-14T00:31:44.770Z",
+    "updatedAt": "2025-03-14T00:32:13.334Z",
+    "__v": 2,
+    "id": "_fM8Wtzps"
+  },
+  {
+    "_id": "XZWRAwWUs",
+    "name": "COM-Melody",
+    "description": "",
+    "slug": "COM-Melody",
+    "owner": {
+      "_id": "671849c6e3ef29a91fad7941",
+      "username": "mango-jackson-gen1",
+      "id": "671849c6e3ef29a91fad7941"
+    },
+    "items": [
+      {
+        "project": {
+          "_id": "orG-Jerll",
+          "name": "Melody 3 midi pitches",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "midi_pitches_copy",
+          "id": "orG-Jerll"
+        },
+        "_id": "67cfbba0df8b330eb9a5d3b1",
+        "createdAt": "2025-03-11T04:27:12.127Z",
+        "updatedAt": "2025-03-11T04:27:12.127Z",
+        "id": "67cfbba0df8b330eb9a5d3b1",
+        "projectId": "orG-Jerll",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "sboCnE2Q-",
+          "name": "Melody 4 Leaping up and down a scale",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Leaping_up_and_down_a_scale_copy",
+          "id": "sboCnE2Q-"
+        },
+        "_id": "67cfbba36e5a7a70a7fc2251",
+        "createdAt": "2025-03-11T04:27:15.382Z",
+        "updatedAt": "2025-03-11T04:27:15.382Z",
+        "id": "67cfbba36e5a7a70a7fc2251",
+        "projectId": "sboCnE2Q-",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "jVjToRGt3",
+          "name": "Melody 3 scales",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "scales_copy",
+          "id": "jVjToRGt3"
+        },
+        "_id": "67cfbba66e5a7a70a7fc2266",
+        "createdAt": "2025-03-11T04:27:18.743Z",
+        "updatedAt": "2025-03-11T04:27:18.743Z",
+        "id": "67cfbba66e5a7a70a7fc2266",
+        "projectId": "jVjToRGt3",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "WZRWUhQOL",
+          "name": "Melody 2 random pitch sequences",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "random_pitch_sequences_copy",
+          "id": "WZRWUhQOL"
+        },
+        "_id": "67cfbba7838380e93aa96d2c",
+        "createdAt": "2025-03-11T04:27:19.973Z",
+        "updatedAt": "2025-03-11T04:27:19.973Z",
+        "id": "67cfbba7838380e93aa96d2c",
+        "projectId": "WZRWUhQOL",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "t1HnuWeXF",
+          "name": "Melody 1 linear vs log mapping",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "linear_vs_log_mapping_copy",
+          "id": "t1HnuWeXF"
+        },
+        "_id": "67cfbba86e5a7a70a7fc22b1",
+        "createdAt": "2025-03-11T04:27:20.695Z",
+        "updatedAt": "2025-03-11T04:27:20.695Z",
+        "id": "67cfbba86e5a7a70a7fc22b1",
+        "projectId": "t1HnuWeXF",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2025-03-11T04:27:08.217Z",
+    "updatedAt": "2025-03-11T04:27:20.695Z",
+    "__v": 5,
+    "id": "XZWRAwWUs"
+  },
+  {
+    "_id": "WEplB6cIv",
+    "name": "CYW Week1",
+    "description": "",
+    "slug": "CYW_Week1",
+    "owner": {
+      "_id": "671849c6e3ef29a91fad7941",
+      "username": "mango-jackson-gen1",
+      "id": "671849c6e3ef29a91fad7941"
+    },
+    "items": [
+      {
+        "project": {
+          "_id": "bmtOh6gtO",
+          "name": "CYW • WK1 Preloader • Encode 2",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "CYW_*_WK1_Preloader_*_Encode_2_copy",
+          "id": "bmtOh6gtO"
+        },
+        "_id": "67dabf5952f2243888f651ce",
+        "createdAt": "2025-03-19T12:58:01.697Z",
+        "updatedAt": "2025-03-19T12:58:01.697Z",
+        "id": "67dabf5952f2243888f651ce",
+        "projectId": "bmtOh6gtO",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "Xc8CWjEuI",
+          "name": "CYW • WK1 Preloader • Encode 2 My Sketch",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "CYW_*_WK1_Preloader_*_Encode_2_copy",
+          "id": "Xc8CWjEuI"
+        },
+        "_id": "67dac2f54e014c29e2ece1eb",
+        "createdAt": "2025-03-19T13:13:25.666Z",
+        "updatedAt": "2025-03-19T13:13:25.666Z",
+        "id": "67dac2f54e014c29e2ece1eb",
+        "projectId": "Xc8CWjEuI",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "ooWpUT2wg",
+          "name": "CYW • WK1 Preloader • Encode 3 Mysketch",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "CYW_*_WK1_Preloader_*_Encode_3_copy_copy",
+          "id": "ooWpUT2wg"
+        },
+        "_id": "67dac81a215c993d8446d84f",
+        "createdAt": "2025-03-19T13:35:22.724Z",
+        "updatedAt": "2025-03-19T13:35:22.724Z",
+        "id": "67dac81a215c993d8446d84f",
+        "projectId": "ooWpUT2wg",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "tqgpdUNLQ",
+          "name": "CYW • WK1 Preloader • Encode 3 copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "CYW_*_WK1_Preloader_*_Encode_3_copy",
+          "id": "tqgpdUNLQ"
+        },
+        "_id": "67dac8334e014c29e2f1bae6",
+        "createdAt": "2025-03-19T13:35:47.770Z",
+        "updatedAt": "2025-03-19T13:35:47.770Z",
+        "id": "67dac8334e014c29e2f1bae6",
+        "projectId": "tqgpdUNLQ",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2025-03-19T12:57:47.847Z",
+    "updatedAt": "2025-03-19T13:35:47.770Z",
+    "__v": 6,
+    "id": "WEplB6cIv"
+  },
+  {
+    "_id": "ixQCIEzvo",
+    "name": "ML 2025 Spring",
+    "description": "",
+    "slug": "ML_2025_Spring",
+    "owner": {
+      "_id": "671849c6e3ef29a91fad7941",
+      "username": "mango-jackson-gen1",
+      "id": "671849c6e3ef29a91fad7941"
+    },
+    "items": [
+      {
+        "project": {
+          "_id": "qWbLlCUwZ",
+          "name": "ML Assignment2_Ring Pop",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "ML_Assignment2_Ring_Pop",
+          "id": "qWbLlCUwZ"
+        },
+        "_id": "67bcd9dd3885f511d434d9eb",
+        "createdAt": "2025-02-24T20:43:09.419Z",
+        "updatedAt": "2025-02-24T20:43:09.419Z",
+        "id": "67bcd9dd3885f511d434d9eb",
+        "projectId": "qWbLlCUwZ",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "iEDJhidAA",
+          "name": "ML Class2_TM_template",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "TM_template_copy",
+          "id": "iEDJhidAA"
+        },
+        "_id": "67bcd9e3dda5cbb7d7819ad4",
+        "createdAt": "2025-02-24T20:43:15.489Z",
+        "updatedAt": "2025-02-24T20:43:15.489Z",
+        "id": "67bcd9e3dda5cbb7d7819ad4",
+        "projectId": "iEDJhidAA",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "kNM0D9oUu",
+          "name": "BodyPose - single image copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "BodyPose_-_single_image_copy",
+          "id": "kNM0D9oUu"
+        },
+        "_id": "67bcd9e7e0dab4b650e7b8e6",
+        "createdAt": "2025-02-24T20:43:19.887Z",
+        "updatedAt": "2025-02-24T20:43:19.887Z",
+        "id": "67bcd9e7e0dab4b650e7b8e6",
+        "projectId": "kNM0D9oUu",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "AVsW23vWZ",
+          "name": "HandPose - keypoints copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "HandPose_-_keypoints_copy",
+          "id": "AVsW23vWZ"
+        },
+        "_id": "67bcd9e8dda5cbb7d7819c42",
+        "createdAt": "2025-02-24T20:43:20.518Z",
+        "updatedAt": "2025-02-24T20:43:20.518Z",
+        "id": "67bcd9e8dda5cbb7d7819c42",
+        "projectId": "AVsW23vWZ",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "r1mW2fNuG",
+          "name": "FaceMesh - lips copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "FaceMesh_-_lips_copy",
+          "id": "r1mW2fNuG"
+        },
+        "_id": "67bcd9e9627c6643b6b7b3d7",
+        "createdAt": "2025-02-24T20:43:21.100Z",
+        "updatedAt": "2025-02-24T20:43:21.100Z",
+        "id": "67bcd9e9627c6643b6b7b3d7",
+        "projectId": "r1mW2fNuG",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2025-02-24T20:42:50.123Z",
+    "updatedAt": "2025-02-24T20:43:21.101Z",
+    "__v": 5,
+    "id": "ixQCIEzvo"
+  },
+  {
+    "_id": "5OiySrMmf",
+    "name": "ML Midterm - Conductor",
+    "description": "",
+    "slug": "ML_Midterm_-_Conductor",
+    "owner": {
+      "_id": "671849c6e3ef29a91fad7941",
+      "username": "mango-jackson-gen1",
+      "id": "671849c6e3ef29a91fad7941"
+    },
+    "items": [
+      {
+        "project": {
+          "_id": "VGnSpkN-f",
+          "name": "ML Midterm - Demo 1 paint brush",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "HandPose_Painting_strokeweight_copy",
+          "id": "VGnSpkN-f"
+        },
+        "_id": "67cb3147b453bab67222b46e",
+        "createdAt": "2025-03-07T17:47:51.794Z",
+        "updatedAt": "2025-03-07T17:47:51.794Z",
+        "id": "67cb3147b453bab67222b46e",
+        "projectId": "VGnSpkN-f",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "SmTZ2Wtao",
+          "name": "ML_Midterm Demo 3 - drumpad",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "ML_Midterm_Demo_2_copy",
+          "id": "SmTZ2Wtao"
+        },
+        "_id": "67cb329ab13dfb70bc9377d6",
+        "createdAt": "2025-03-07T17:53:30.875Z",
+        "updatedAt": "2025-03-07T17:53:30.875Z",
+        "id": "67cb329ab13dfb70bc9377d6",
+        "projectId": "SmTZ2Wtao",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "Ly11wEFwN",
+          "name": "ML Midterm Demo 2 particle paint brush",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "ML_Midterm_-_Demo_1_paint_brush_copy",
+          "id": "Ly11wEFwN"
+        },
+        "_id": "67cb5021c0a8ac0f658a21e7",
+        "createdAt": "2025-03-07T19:59:29.050Z",
+        "updatedAt": "2025-03-07T19:59:29.050Z",
+        "id": "67cb5021c0a8ac0f658a21e7",
+        "projectId": "Ly11wEFwN",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "yyBJgG0QO",
+          "name": "ML Midterm Demo 4 particle paint brush with sound",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "ML_Midterm_Demo_2_particle_paint_brush_copy",
+          "id": "yyBJgG0QO"
+        },
+        "_id": "67d46d15e0431b4f5f650626",
+        "createdAt": "2025-03-14T17:53:25.782Z",
+        "updatedAt": "2025-03-14T17:53:25.782Z",
+        "id": "67d46d15e0431b4f5f650626",
+        "projectId": "yyBJgG0QO",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2025-03-07T17:47:38.929Z",
+    "updatedAt": "2025-03-14T17:53:25.782Z",
+    "__v": 8,
+    "id": "5OiySrMmf"
+  },
+  {
+    "_id": "pPjnm1VDe",
+    "name": "ML Week 1 Sketch",
+    "description": "",
+    "slug": "ML_Week_1_Sketch",
+    "owner": {
+      "_id": "671849c6e3ef29a91fad7941",
+      "username": "mango-jackson-gen1",
+      "id": "671849c6e3ef29a91fad7941"
+    },
+    "items": [
+      {
+        "project": null,
+        "_id": "67d79a14941dea372ad797a4",
+        "createdAt": "2025-03-17T03:42:12.216Z",
+        "updatedAt": "2025-03-17T03:42:12.216Z",
+        "id": "67d79a14941dea372ad797a4",
+        "projectId": "n0tger4ub",
+        "isDeleted": true
+      },
+      {
+        "project": {
+          "_id": "85J3Th0HI",
+          "name": "WIP ML Sketch 1_Voicedector testing3",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "ML_Sketch_1_testing1_copy_copy",
+          "id": "85J3Th0HI"
+        },
+        "_id": "67d97f555e42bff00777fe80",
+        "createdAt": "2025-03-18T14:12:37.857Z",
+        "updatedAt": "2025-03-18T14:12:37.857Z",
+        "id": "67d97f555e42bff00777fe80",
+        "projectId": "85J3Th0HI",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2025-03-17T03:42:06.960Z",
+    "updatedAt": "2025-03-18T14:12:37.857Z",
+    "__v": 4,
+    "id": "pPjnm1VDe"
+  },
+  {
+    "_id": "7OL3a4t-u",
+    "name": "ML Week1_Image Classifier",
+    "description": "",
+    "slug": "ML_Week1_Image_Classifier",
+    "owner": {
+      "_id": "671849c6e3ef29a91fad7941",
+      "username": "mango-jackson-gen1",
+      "id": "671849c6e3ef29a91fad7941"
+    },
+    "items": [
+      {
+        "project": {
+          "_id": "-4BufTdgm",
+          "name": "ML1_Class_Image Classification copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Image_Classification_copy",
+          "id": "-4BufTdgm"
+        },
+        "_id": "67d785136f58f8c0d5888ab1",
+        "createdAt": "2025-03-17T02:12:35.852Z",
+        "updatedAt": "2025-03-17T02:12:35.852Z",
+        "id": "67d785136f58f8c0d5888ab1",
+        "projectId": "-4BufTdgm",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "kXhJ0eEu6",
+          "name": "ML1.2 Image Classification video with teachable machine",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Image_Classification_video_copy",
+          "id": "kXhJ0eEu6"
+        },
+        "_id": "67d788d3acea868a84daec26",
+        "createdAt": "2025-03-17T02:28:35.409Z",
+        "updatedAt": "2025-03-17T02:28:35.409Z",
+        "id": "67d788d3acea868a84daec26",
+        "projectId": "kXhJ0eEu6",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "9frwrE7HT",
+          "name": "ML1 Example1 Drag and Drop Image Classification copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Drag_and_Drop_Image_Classification_copy",
+          "id": "9frwrE7HT"
+        },
+        "_id": "67d78931acea868a84daffb4",
+        "createdAt": "2025-03-17T02:30:09.368Z",
+        "updatedAt": "2025-03-17T02:30:09.368Z",
+        "id": "67d78931acea868a84daffb4",
+        "projectId": "9frwrE7HT",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "DOXXZ5TGU",
+          "name": "ML 1.3 imageClassifier-webcam copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "imageClassifier-webcam_copy",
+          "id": "DOXXZ5TGU"
+        },
+        "_id": "67d78a06880aaf0014a0478f",
+        "createdAt": "2025-03-17T02:33:42.531Z",
+        "updatedAt": "2025-03-17T02:33:42.531Z",
+        "id": "67d78a06880aaf0014a0478f",
+        "projectId": "DOXXZ5TGU",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "e0JaQ3RXQ",
+          "name": "ML 1.6 Object Detection TensorFlow.js image copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Object_Detection_TensorFlow.js_image_copy",
+          "id": "e0JaQ3RXQ"
+        },
+        "_id": "67d78ec4880aaf0014a15062",
+        "createdAt": "2025-03-17T02:53:56.453Z",
+        "updatedAt": "2025-03-17T02:53:56.453Z",
+        "id": "67d78ec4880aaf0014a15062",
+        "projectId": "e0JaQ3RXQ",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "Kbky6Kysa",
+          "name": "ML 1.5 Object Detection TensorFlow.js video copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Object_Detection_TensorFlow.js_video_copy",
+          "id": "Kbky6Kysa"
+        },
+        "_id": "67d78ec5880aaf0014a15076",
+        "createdAt": "2025-03-17T02:53:57.096Z",
+        "updatedAt": "2025-03-17T02:53:57.096Z",
+        "id": "67d78ec5880aaf0014a15076",
+        "projectId": "Kbky6Kysa",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "vN-xxl7qB",
+          "name": "ML1.4 Image Classification + Speech copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Image_Classification_+_Speech_copy",
+          "id": "vN-xxl7qB"
+        },
+        "_id": "67d78ec5c998fea25bb5acb5",
+        "createdAt": "2025-03-17T02:53:57.572Z",
+        "updatedAt": "2025-03-17T02:53:57.572Z",
+        "id": "67d78ec5c998fea25bb5acb5",
+        "projectId": "vN-xxl7qB",
+        "isDeleted": false
+      },
+      {
+        "project": null,
+        "_id": "67d799fc941dea372ad79241",
+        "createdAt": "2025-03-17T03:41:48.982Z",
+        "updatedAt": "2025-03-17T03:41:48.982Z",
+        "id": "67d799fc941dea372ad79241",
+        "isDeleted": true
+      },
+      {
+        "project": {
+          "_id": "tp8WTUTvr",
+          "name": "ML 1 TM_template copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "TM_template_copy",
+          "id": "tp8WTUTvr"
+        },
+        "_id": "67d79acc6f58f8c0d58e13f4",
+        "createdAt": "2025-03-17T03:45:16.527Z",
+        "updatedAt": "2025-03-17T03:45:16.527Z",
+        "id": "67d79acc6f58f8c0d58e13f4",
+        "projectId": "tp8WTUTvr",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2025-03-17T02:12:33.304Z",
+    "updatedAt": "2025-03-17T03:45:16.527Z",
+    "__v": 11,
+    "id": "7OL3a4t-u"
+  },
+  {
+    "_id": "nByWzip0Y",
+    "name": "Music",
+    "description": "",
+    "slug": "Music",
+    "owner": {
+      "_id": "671849c6e3ef29a91fad7941",
+      "username": "mango-jackson-gen1",
+      "id": "671849c6e3ef29a91fad7941"
+    },
+    "items": [
+      {
+        "project": {
+          "_id": "WltQXcmFO",
+          "name": "COM5.3 Meter copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Meter_copy",
+          "id": "WltQXcmFO"
+        },
+        "_id": "67bbcb53d194abcab96e247a",
+        "createdAt": "2025-02-24T01:28:51.789Z",
+        "updatedAt": "2025-02-24T01:28:51.789Z",
+        "id": "67bbcb53d194abcab96e247a",
+        "projectId": "WltQXcmFO",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "GI2yRP4-G",
+          "name": "COM5.2 Tempo / Speed copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Tempo_Speed_copy",
+          "id": "GI2yRP4-G"
+        },
+        "_id": "67bbcb54a8e10021f83372a1",
+        "createdAt": "2025-02-24T01:28:52.368Z",
+        "updatedAt": "2025-02-24T01:28:52.368Z",
+        "id": "67bbcb54a8e10021f83372a1",
+        "projectId": "GI2yRP4-G",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "lP_zAHdcb",
+          "name": "COM5.1 pulse copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "pulse_copy",
+          "id": "lP_zAHdcb"
+        },
+        "_id": "67bbcb55d194abcab96e24a1",
+        "createdAt": "2025-02-24T01:28:53.604Z",
+        "updatedAt": "2025-02-24T01:28:53.604Z",
+        "id": "67bbcb55d194abcab96e24a1",
+        "projectId": "lP_zAHdcb",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "AqtEgmIt2",
+          "name": "COM5.5 Cross-Rhythm copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Cross-Rhythm_copy",
+          "id": "AqtEgmIt2"
+        },
+        "_id": "67bbd45198b45e7b9f1033d9",
+        "createdAt": "2025-02-24T02:07:13.882Z",
+        "updatedAt": "2025-02-24T02:07:13.882Z",
+        "id": "67bbd45198b45e7b9f1033d9",
+        "projectId": "AqtEgmIt2",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "qoNxHEgjS",
+          "name": "COM5.4 Syncopation copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Syncopation_copy",
+          "id": "qoNxHEgjS"
+        },
+        "_id": "67bbd458557e602f33e16e3d",
+        "createdAt": "2025-02-24T02:07:20.588Z",
+        "updatedAt": "2025-02-24T02:07:20.588Z",
+        "id": "67bbd458557e602f33e16e3d",
+        "projectId": "qoNxHEgjS",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "xSMczUK4HD",
+          "name": "Worksheet 4Beryl shade copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Beryl_shade_copy",
+          "id": "xSMczUK4HD"
+        },
+        "_id": "67bc98d02979a869a3959f9b",
+        "createdAt": "2025-02-24T16:05:36.825Z",
+        "updatedAt": "2025-02-24T16:05:36.825Z",
+        "id": "67bc98d02979a869a3959f9b",
+        "projectId": "xSMczUK4HD",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "P5AqoryEa",
+          "name": "Worksheet6 make it interactive copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "6_make_it_interactive_copy",
+          "id": "P5AqoryEa"
+        },
+        "_id": "67bc98d12979a869a395a020",
+        "createdAt": "2025-02-24T16:05:37.846Z",
+        "updatedAt": "2025-02-24T16:05:37.846Z",
+        "id": "67bc98d12979a869a395a020",
+        "projectId": "P5AqoryEa",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "q5Lrbv67r",
+          "name": "Worksheet3 make a drum pattern copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "3_make_a_drum_pattern_copy",
+          "id": "q5Lrbv67r"
+        },
+        "_id": "67bc98d2d6b0e283c3253b61",
+        "createdAt": "2025-02-24T16:05:38.911Z",
+        "updatedAt": "2025-02-24T16:05:38.911Z",
+        "id": "67bc98d2d6b0e283c3253b61",
+        "projectId": "q5Lrbv67r",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "EY_KZb9rc",
+          "name": "COMClass2 Bjork Mutual Core - Mixer with Waveform copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Bjork_Mutual_Core_-_Mixer_with_Waveform_copy",
+          "id": "EY_KZb9rc"
+        },
+        "_id": "67bcf0893ad28d6b72cd3a28",
+        "createdAt": "2025-02-24T22:19:53.873Z",
+        "updatedAt": "2025-02-24T22:19:53.873Z",
+        "id": "67bcf0893ad28d6b72cd3a28",
+        "projectId": "EY_KZb9rc",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "iMkXNZmFJ",
+          "name": "COMClass1 visualize - waveform filled circle copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "visualize_-_waveform_filled_circle_copy",
+          "id": "iMkXNZmFJ"
+        },
+        "_id": "67bcf08b4651e250d547c162",
+        "createdAt": "2025-02-24T22:19:55.465Z",
+        "updatedAt": "2025-02-24T22:19:55.465Z",
+        "id": "67bcf08b4651e250d547c162",
+        "projectId": "iMkXNZmFJ",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "-4S8Zwk3Y",
+          "name": "COMClass1 - Waveform visualize - waveform filled copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "visualize_-_waveform_filled_copy",
+          "id": "-4S8Zwk3Y"
+        },
+        "_id": "67bcf08c4651e250d547c192",
+        "createdAt": "2025-02-24T22:19:56.738Z",
+        "updatedAt": "2025-02-24T22:19:56.738Z",
+        "id": "67bcf08c4651e250d547c192",
+        "projectId": "-4S8Zwk3Y",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "6kQqmuAB8",
+          "name": "COMClass1 visualize - frequency spectrum copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "visualize_-_frequency_spectrum_copy",
+          "id": "6kQqmuAB8"
+        },
+        "_id": "67bcf08d4651e250d547c1c3",
+        "createdAt": "2025-02-24T22:19:57.400Z",
+        "updatedAt": "2025-02-24T22:19:57.400Z",
+        "id": "67bcf08d4651e250d547c1c3",
+        "projectId": "6kQqmuAB8",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "5fGyRK4Bd",
+          "name": "COM Class1 visualize - meter copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "visualize_-_meter_copy",
+          "id": "5fGyRK4Bd"
+        },
+        "_id": "67bcf08e69bbecbefe858d14",
+        "createdAt": "2025-02-24T22:19:58.113Z",
+        "updatedAt": "2025-02-24T22:19:58.113Z",
+        "id": "67bcf08e69bbecbefe858d14",
+        "projectId": "5fGyRK4Bd",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "PUocl9awA",
+          "name": "COM Week7_inclass2",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "COM_Week7_inclass_exercise1_mapping_to_frequency_copy",
+          "id": "PUocl9awA"
+        },
+        "_id": "67c7541cada16a665b00c2db",
+        "createdAt": "2025-03-04T19:27:24.584Z",
+        "updatedAt": "2025-03-04T19:27:24.584Z",
+        "id": "67c7541cada16a665b00c2db",
+        "projectId": "PUocl9awA",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "-BjyhLsCp",
+          "name": "COM Week7.1 click to frequency",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "2_0_starter_code_copy",
+          "id": "-BjyhLsCp"
+        },
+        "_id": "67c7541dada16a665b00c2fd",
+        "createdAt": "2025-03-04T19:27:25.055Z",
+        "updatedAt": "2025-03-04T19:27:25.055Z",
+        "id": "67c7541dada16a665b00c2fd",
+        "projectId": "-BjyhLsCp",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "MLZoqRWyZ",
+          "name": "COM_ProjectRhythm_PianoPad",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Worksheet7_n_steps_n_tracks_-_circle_copy_copy",
+          "id": "MLZoqRWyZ"
+        },
+        "_id": "67cb0374b412ee1950580f8f",
+        "createdAt": "2025-03-07T14:32:20.273Z",
+        "updatedAt": "2025-03-07T14:32:20.273Z",
+        "id": "67cb0374b412ee1950580f8f",
+        "projectId": "MLZoqRWyZ",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "ZWpFC3lZ4",
+          "name": "Super difficult COM",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Super_difficult_COM",
+          "id": "ZWpFC3lZ4"
+        },
+        "_id": "67cb0379de162a85496e5e89",
+        "createdAt": "2025-03-07T14:32:25.553Z",
+        "updatedAt": "2025-03-07T14:32:25.553Z",
+        "id": "67cb0379de162a85496e5e89",
+        "projectId": "ZWpFC3lZ4",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2025-01-27T01:40:58.904Z",
+    "updatedAt": "2025-03-07T14:32:25.553Z",
+    "__v": 35,
+    "id": "nByWzip0Y"
+  },
+  {
+    "_id": "Tzbyk8peo",
+    "name": "NOC 2025",
+    "description": "",
+    "slug": "NOC_2025",
+    "owner": {
+      "_id": "671849c6e3ef29a91fad7941",
+      "username": "mango-jackson-gen1",
+      "id": "671849c6e3ef29a91fad7941"
+    },
+    "items": [
+      {
+        "project": {
+          "_id": "AQ15AAuGF",
+          "name": "NOC1.3 Acceleration Vector copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Nature_of_Code_-_Acceleration_Vector_copy",
+          "id": "AQ15AAuGF"
+        },
+        "_id": "67bcd9a4e0dab4b650e7a414",
+        "createdAt": "2025-02-24T20:42:12.802Z",
+        "updatedAt": "2025-02-24T20:42:12.802Z",
+        "id": "67bcd9a4e0dab4b650e7a414",
+        "projectId": "AQ15AAuGF",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "-Kw5Y-FmR",
+          "name": "NOC1.2 Random Vectors copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Random_Vectors_copy",
+          "id": "-Kw5Y-FmR"
+        },
+        "_id": "67bcd9a5627c6643b6b7a16c",
+        "createdAt": "2025-02-24T20:42:13.470Z",
+        "updatedAt": "2025-02-24T20:42:13.470Z",
+        "id": "67bcd9a5627c6643b6b7a16c",
+        "projectId": "-Kw5Y-FmR",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "UKVAV46x1",
+          "name": "NOC1.5 - Unit Vector (Normalize) copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Nature_of_Code_-_Unit_Vector_(Normalize)_copy",
+          "id": "UKVAV46x1"
+        },
+        "_id": "67bcd9a6dda5cbb7d78192a9",
+        "createdAt": "2025-02-24T20:42:14.274Z",
+        "updatedAt": "2025-02-24T20:42:14.274Z",
+        "id": "67bcd9a6dda5cbb7d78192a9",
+        "projectId": "UKVAV46x1",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "9tFjNMa1t",
+          "name": "NOC Example I.1: Random walk traditional",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Example_I.1:_Random_walk_traditional_copy",
+          "id": "9tFjNMa1t"
+        },
+        "_id": "67bcd9ade0dab4b650e7a488",
+        "createdAt": "2025-02-24T20:42:21.589Z",
+        "updatedAt": "2025-02-24T20:42:21.589Z",
+        "id": "67bcd9ade0dab4b650e7a488",
+        "projectId": "9tFjNMa1t",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "XvUhZ6n5Q",
+          "name": "NOC - Figure 4.8 - circles",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Figure_4.8_-_circles_copy",
+          "id": "XvUhZ6n5Q"
+        },
+        "_id": "67bcd9b03885f511d434ccea",
+        "createdAt": "2025-02-24T20:42:24.447Z",
+        "updatedAt": "2025-02-24T20:42:24.447Z",
+        "id": "67bcd9b03885f511d434ccea",
+        "projectId": "XvUhZ6n5Q",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "DoxaQ3_eq",
+          "name": "NOC-Solar final copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "NOC-Solar_final_copy",
+          "id": "DoxaQ3_eq"
+        },
+        "_id": "67bcd9b5e0dab4b650e7a542",
+        "createdAt": "2025-02-24T20:42:29.526Z",
+        "updatedAt": "2025-02-24T20:42:29.526Z",
+        "id": "67bcd9b5e0dab4b650e7a542",
+        "projectId": "DoxaQ3_eq",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "Wotrktnec",
+          "name": "NOC-W3 Jessica- planet",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "NOC-W3_copy",
+          "id": "Wotrktnec"
+        },
+        "_id": "67bcd9b60baa0cd907c50c08",
+        "createdAt": "2025-02-24T20:42:30.339Z",
+        "updatedAt": "2025-02-24T20:42:30.339Z",
+        "id": "67bcd9b60baa0cd907c50c08",
+        "projectId": "Wotrktnec",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "SKDawkLng",
+          "name": "Draft NOC2_Random Vectors copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Random_Vectors_copy",
+          "id": "SKDawkLng"
+        },
+        "_id": "67c534f1c10842ea6ff0ff97",
+        "createdAt": "2025-03-03T04:49:53.901Z",
+        "updatedAt": "2025-03-03T04:49:53.901Z",
+        "id": "67c534f1c10842ea6ff0ff97",
+        "projectId": "SKDawkLng",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "Me_H3sceV",
+          "name": "NOC_Sketch1_Figure I Noise 2D copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Figure_I_Noise_2D_copy",
+          "id": "Me_H3sceV"
+        },
+        "_id": "67c534f6a29e8a82a3b706f4",
+        "createdAt": "2025-03-03T04:49:58.253Z",
+        "updatedAt": "2025-03-03T04:49:58.253Z",
+        "id": "67c534f6a29e8a82a3b706f4",
+        "projectId": "Me_H3sceV",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "oYcEEtoN3",
+          "name": "NOC Jack 20250219-daily-experiment-paper-cut-pattern-truchet-tiles-v1-low-poly copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "20250219-daily-experiment-paper-cut-pattern-truchet-tiles-v1-low-poly_copy",
+          "id": "oYcEEtoN3"
+        },
+        "_id": "67c534f8c10842ea6ff1001b",
+        "createdAt": "2025-03-03T04:50:00.645Z",
+        "updatedAt": "2025-03-03T04:50:00.645Z",
+        "id": "67c534f8c10842ea6ff1001b",
+        "projectId": "oYcEEtoN3",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "BO3BrNRQU",
+          "name": "NOC Vector_Example Thunder2 copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Thunder2_copy",
+          "id": "BO3BrNRQU"
+        },
+        "_id": "67c644f2b82c31a4f9010ace",
+        "createdAt": "2025-03-04T00:10:26.124Z",
+        "updatedAt": "2025-03-04T00:10:26.124Z",
+        "id": "67c644f2b82c31a4f9010ace",
+        "projectId": "BO3BrNRQU",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "99UY7yO2d",
+          "name": "NOC 1 Example bursting flower-W3 copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "NOC-W3_copy",
+          "id": "99UY7yO2d"
+        },
+        "_id": "67c644f278dca15d9e012466",
+        "createdAt": "2025-03-04T00:10:26.884Z",
+        "updatedAt": "2025-03-04T00:10:26.884Z",
+        "id": "67c644f278dca15d9e012466",
+        "projectId": "99UY7yO2d",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "gauOJaCeb",
+          "name": "NOCExample 1.2: Bouncing ball with vectors copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Example_1.2:_Bouncing_ball_with_vectors_copy",
+          "id": "gauOJaCeb"
+        },
+        "_id": "67c644f378dca15d9e01248e",
+        "createdAt": "2025-03-04T00:10:27.517Z",
+        "updatedAt": "2025-03-04T00:10:27.517Z",
+        "id": "67c644f378dca15d9e01248e",
+        "projectId": "gauOJaCeb",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "0rcnKytdf",
+          "name": "NOC Vector Demo Genuary 2025 29 - Grid-based graphic design. copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Genuary_2025_29_-_Grid-based_graphic_design._copy",
+          "id": "0rcnKytdf"
+        },
+        "_id": "67c754100ae77a9d43ebbd7f",
+        "createdAt": "2025-03-04T19:27:12.425Z",
+        "updatedAt": "2025-03-04T19:27:12.425Z",
+        "id": "67c754100ae77a9d43ebbd7f",
+        "projectId": "0rcnKytdf",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "om1ksmSsT",
+          "name": "NOC Vector Demo Class Random Walker",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Class_Random_Walker_copy",
+          "id": "om1ksmSsT"
+        },
+        "_id": "67c754113f08fbdd0f4a2312",
+        "createdAt": "2025-03-04T19:27:13.540Z",
+        "updatedAt": "2025-03-04T19:27:13.540Z",
+        "id": "67c754113f08fbdd0f4a2312",
+        "projectId": "om1ksmSsT",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "OA0RdB9AV",
+          "name": "NOC 0 Perlin noise_Figure I Noise 2D copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Figure_I_Noise_2D_copy",
+          "id": "OA0RdB9AV"
+        },
+        "_id": "67c754128f038355582c9e3f",
+        "createdAt": "2025-03-04T19:27:14.834Z",
+        "updatedAt": "2025-03-04T19:27:14.834Z",
+        "id": "67c754128f038355582c9e3f",
+        "projectId": "OA0RdB9AV",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2025-02-24T20:42:08.886Z",
+    "updatedAt": "2025-03-04T19:27:14.834Z",
+    "__v": 18,
+    "id": "Tzbyk8peo"
+  },
+  {
+    "_id": "ZCWFpTbpW",
+    "name": "NOC chapter 1 Vector Examples",
+    "description": "",
+    "slug": "NOC_chapter_1_Vector_Examples",
+    "owner": {
+      "_id": "671849c6e3ef29a91fad7941",
+      "username": "mango-jackson-gen1",
+      "id": "671849c6e3ef29a91fad7941"
+    },
+    "items": [
+      {
+        "project": {
+          "_id": "T18cqzAWS",
+          "name": "NOC1_RGB Walker",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "RGB_Walker_copy",
+          "id": "T18cqzAWS"
+        },
+        "_id": "67d6405aaccbc245bf227e41",
+        "createdAt": "2025-03-16T03:07:06.046Z",
+        "updatedAt": "2025-03-16T03:07:06.046Z",
+        "id": "67d6405aaccbc245bf227e41",
+        "projectId": "T18cqzAWS",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "di_20En8r",
+          "name": "Example 1.10: Accelerating towards the mouse copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Example_1.10:_Accelerating_towards_the_mouse_copy",
+          "id": "di_20En8r"
+        },
+        "_id": "67d6405f3100737f9ec5cb2d",
+        "createdAt": "2025-03-16T03:07:11.230Z",
+        "updatedAt": "2025-03-16T03:07:11.230Z",
+        "id": "67d6405f3100737f9ec5cb2d",
+        "projectId": "di_20En8r",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2025-03-16T03:07:01.301Z",
+    "updatedAt": "2025-03-16T03:07:11.230Z",
+    "__v": 2,
+    "id": "ZCWFpTbpW"
+  },
+  {
+    "_id": "gAitia6Kk",
+    "name": "NOC Chapter2 Forces",
+    "description": "",
+    "slug": "NOC_Chapter2_Forces",
+    "owner": {
+      "_id": "671849c6e3ef29a91fad7941",
+      "username": "mango-jackson-gen1",
+      "id": "671849c6e3ef29a91fad7941"
+    },
+    "items": [
+      {
+        "project": {
+          "_id": "myydZjS-p",
+          "name": "2.2: Forces with wind",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Example_2.1:_Forces_copy",
+          "id": "myydZjS-p"
+        },
+        "_id": "67d64045accbc245bf227d4c",
+        "createdAt": "2025-03-16T03:06:45.446Z",
+        "updatedAt": "2025-03-16T03:06:45.446Z",
+        "id": "67d64045accbc245bf227d4c",
+        "projectId": "myydZjS-p",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "pxiQxwNOS",
+          "name": "2.3 : Forces 2 Mass copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Nature_of_Code_2:_Forces_2_Mass_copy",
+          "id": "pxiQxwNOS"
+        },
+        "_id": "67d64b6d1335b40f50fe4d05",
+        "createdAt": "2025-03-16T03:54:21.055Z",
+        "updatedAt": "2025-03-16T03:54:21.055Z",
+        "id": "67d64b6d1335b40f50fe4d05",
+        "projectId": "pxiQxwNOS",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "nEJMnLozC",
+          "name": "2.3: Forces acting on two objects copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Example_2.2:_Forces_acting_on_two_objects_copy",
+          "id": "nEJMnLozC"
+        },
+        "_id": "67d64cf9da939a486c482cf7",
+        "createdAt": "2025-03-16T04:00:57.883Z",
+        "updatedAt": "2025-03-16T04:00:57.883Z",
+        "id": "67d64cf9da939a486c482cf7",
+        "projectId": "nEJMnLozC",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "_KFP44rik",
+          "name": "2.33: Friction copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Nature_of_Code_2.3:_Friction_copy",
+          "id": "_KFP44rik"
+        },
+        "_id": "67d6c6011335b40f5018c58f",
+        "createdAt": "2025-03-16T12:37:21.637Z",
+        "updatedAt": "2025-03-16T12:37:21.637Z",
+        "id": "67d6c6011335b40f5018c58f",
+        "projectId": "_KFP44rik",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "djmDF8Ee5",
+          "name": "2.4: Drag copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Nature_of_Code_2:_Drag_copy",
+          "id": "djmDF8Ee5"
+        },
+        "_id": "67d6cc77da939a486c650457",
+        "createdAt": "2025-03-16T13:04:55.051Z",
+        "updatedAt": "2025-03-16T13:04:55.051Z",
+        "id": "67d6cc77da939a486c650457",
+        "projectId": "djmDF8Ee5",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "58_ZCxSnC",
+          "name": "2.6: Attraction copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Nature_of_Code_2:_Attraction_copy",
+          "id": "58_ZCxSnC"
+        },
+        "_id": "67d6d5bf3100737f9ee6c0c1",
+        "createdAt": "2025-03-16T13:44:31.285Z",
+        "updatedAt": "2025-03-16T13:44:31.285Z",
+        "id": "67d6d5bf3100737f9ee6c0c1",
+        "projectId": "58_ZCxSnC",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "Sr7VQaP65",
+          "name": "Nature of Code 2: Mutual Attraction array copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Nature_of_Code_2:_Mutual_Attraction_array_copy",
+          "id": "Sr7VQaP65"
+        },
+        "_id": "67d6dacfaccbc245bf46a5af",
+        "createdAt": "2025-03-16T14:06:07.794Z",
+        "updatedAt": "2025-03-16T14:06:07.794Z",
+        "id": "67d6dacfaccbc245bf46a5af",
+        "projectId": "Sr7VQaP65",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "zD0lwDJxj",
+          "name": "CC 56: Attraction and Repulsion copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "CC_56:_Attraction_and_Repulsion_copy",
+          "id": "zD0lwDJxj"
+        },
+        "_id": "67d6e308da939a486c6afa94",
+        "createdAt": "2025-03-16T14:41:12.864Z",
+        "updatedAt": "2025-03-16T14:41:12.864Z",
+        "id": "67d6e308da939a486c6afa94",
+        "projectId": "zD0lwDJxj",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "cXAVbMBKP",
+          "name": "2.1: Forces 1 - Simulating Force copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Nature_of_Code_2:_Forces_1_-_Simulating_Force_copy",
+          "id": "cXAVbMBKP"
+        },
+        "_id": "67d6f14aaccbc245bf4d08c6",
+        "createdAt": "2025-03-16T15:42:02.266Z",
+        "updatedAt": "2025-03-16T15:42:02.266Z",
+        "id": "67d6f14aaccbc245bf4d08c6",
+        "projectId": "cXAVbMBKP",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2025-03-16T03:06:36.500Z",
+    "updatedAt": "2025-03-16T15:42:02.266Z",
+    "__v": 9,
+    "id": "gAitia6Kk"
+  },
+  {
+    "_id": "LiCA0UYhsP",
+    "name": "Pcom",
+    "description": "",
+    "slug": "Pcom",
+    "owner": {
+      "_id": "671849c6e3ef29a91fad7941",
+      "username": "mango-jackson-gen1",
+      "id": "671849c6e3ef29a91fad7941"
+    },
+    "items": [
+      {
+        "project": {
+          "_id": "JSwB02knR",
+          "name": "P5 Nov5_webSerial one binary value P5 to Arduino copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "webSerial_one_binary_value_P5_to_Arduino_copy",
+          "id": "JSwB02knR"
+        },
+        "_id": "67351df7d98696271eed63db",
+        "createdAt": "2024-11-13T21:45:27.177Z",
+        "updatedAt": "2024-11-13T21:45:27.177Z",
+        "id": "67351df7d98696271eed63db",
+        "projectId": "JSwB02knR",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "jx2LdHYmN",
+          "name": "Pcom_Week8_webSerialWriteSerial_lab2 wk8",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Pcom_Week8_webSerialWriteSerial_copy",
+          "id": "jx2LdHYmN"
+        },
+        "_id": "67351df8d98696271eed641e",
+        "createdAt": "2024-11-13T21:45:28.674Z",
+        "updatedAt": "2024-11-13T21:45:28.674Z",
+        "id": "67351df8d98696271eed641e",
+        "projectId": "jx2LdHYmN",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "mjKGlqfjh",
+          "name": "Pcom_Week8_webSerialWriteSerial",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Torpid_element",
+          "id": "mjKGlqfjh"
+        },
+        "_id": "67351df95455c1135f0f5866",
+        "createdAt": "2024-11-13T21:45:29.570Z",
+        "updatedAt": "2024-11-13T21:45:29.570Z",
+        "id": "67351df95455c1135f0f5866",
+        "projectId": "mjKGlqfjh",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2024-11-13T21:45:12.767Z",
+    "updatedAt": "2024-11-13T21:45:29.570Z",
+    "__v": 3,
+    "id": "LiCA0UYhsP"
+  },
+  {
+    "_id": "1k1Zp28yt",
+    "name": "Week1",
+    "description": "",
+    "slug": "Week1",
+    "owner": {
+      "_id": "671849c6e3ef29a91fad7941",
+      "username": "mango-jackson-gen1",
+      "id": "671849c6e3ef29a91fad7941"
+    },
+    "items": [
+      {
+        "project": {
+          "_id": "mrC09IJFJ",
+          "name": "Wk1_Portrait",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Wk1_Portrait",
+          "id": "mrC09IJFJ"
+        },
+        "_id": "671e71dcdf1d805ecf3a402e",
+        "createdAt": "2024-10-27T17:01:16.718Z",
+        "updatedAt": "2024-10-27T17:01:16.718Z",
+        "id": "671e71dcdf1d805ecf3a402e",
+        "projectId": "mrC09IJFJ",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2024-10-27T17:01:08.176Z",
+    "updatedAt": "2024-10-27T17:45:11.028Z",
+    "__v": 3,
+    "id": "1k1Zp28yt"
+  },
+  {
+    "_id": "erfCSV1DI",
+    "name": "Week10",
+    "description": "",
+    "slug": "Week10",
+    "owner": {
+      "_id": "671849c6e3ef29a91fad7941",
+      "username": "mango-jackson-gen1",
+      "id": "671849c6e3ef29a91fad7941"
+    },
+    "items": [
+      {
+        "project": {
+          "_id": "Db5o1ETwLI",
+          "name": "Week10_HW2",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Week10_HW2",
+          "id": "Db5o1ETwLI"
+        },
+        "_id": "67351d7c5455c1135f0f1bff",
+        "createdAt": "2024-11-13T21:43:24.202Z",
+        "updatedAt": "2024-11-13T21:43:24.202Z",
+        "id": "67351d7c5455c1135f0f1bff",
+        "projectId": "Db5o1ETwLI",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "uh5dQ_v9pP",
+          "name": "Week10_HW2",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Week10_HW2",
+          "id": "uh5dQ_v9pP"
+        },
+        "_id": "67351d7cadb3f546ea46e168",
+        "createdAt": "2024-11-13T21:43:24.847Z",
+        "updatedAt": "2024-11-13T21:43:24.847Z",
+        "id": "67351d7cadb3f546ea46e168",
+        "projectId": "uh5dQ_v9pP",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "3xW99cHix",
+          "name": "Week10_HW1",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Week10_HW1",
+          "id": "3xW99cHix"
+        },
+        "_id": "67351d7d0b55c27c1230f90f",
+        "createdAt": "2024-11-13T21:43:25.625Z",
+        "updatedAt": "2024-11-13T21:43:25.625Z",
+        "id": "67351d7d0b55c27c1230f90f",
+        "projectId": "3xW99cHix",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "Qud_dh2wp",
+          "name": "Week10_Reference_Sound: Play/Pause copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Sound:_PlayPause_copy",
+          "id": "Qud_dh2wp"
+        },
+        "_id": "67351d7e5455c1135f0f1c94",
+        "createdAt": "2024-11-13T21:43:26.744Z",
+        "updatedAt": "2024-11-13T21:43:26.744Z",
+        "id": "67351d7e5455c1135f0f1c94",
+        "projectId": "Qud_dh2wp",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "ZiL01E2pr",
+          "name": "Week10_This week's question for MIMI",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Week10_HW1",
+          "id": "ZiL01E2pr"
+        },
+        "_id": "67351d7fd98696271eed1fb1",
+        "createdAt": "2024-11-13T21:43:27.325Z",
+        "updatedAt": "2024-11-13T21:43:27.325Z",
+        "id": "67351d7fd98696271eed1fb1",
+        "projectId": "ZiL01E2pr",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "pC0OpVj_3",
+          "name": "Wk10_Sound_1",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Wk10_Sound_1",
+          "id": "pC0OpVj_3"
+        },
+        "_id": "67351d800b55c27c1230f9f8",
+        "createdAt": "2024-11-13T21:43:28.318Z",
+        "updatedAt": "2024-11-13T21:43:28.318Z",
+        "id": "67351d800b55c27c1230f9f8",
+        "projectId": "pC0OpVj_3",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2024-11-13T21:43:20.990Z",
+    "updatedAt": "2024-11-13T21:43:28.318Z",
+    "__v": 6,
+    "id": "erfCSV1DI"
+  },
+  {
+    "_id": "Kh3Z_GNx_",
+    "name": "Week11",
+    "description": "",
+    "slug": "Week11",
+    "owner": {
+      "_id": "671849c6e3ef29a91fad7941",
+      "username": "mango-jackson-gen1",
+      "id": "671849c6e3ef29a91fad7941"
+    },
+    "items": [
+      {
+        "project": {
+          "_id": "vWjqbg2GP",
+          "name": "Week11_Inclass",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Week11_Inclass",
+          "id": "vWjqbg2GP"
+        },
+        "_id": "67351d910b55c27c12310307",
+        "createdAt": "2024-11-13T21:43:45.748Z",
+        "updatedAt": "2024-11-13T21:43:45.748Z",
+        "id": "67351d910b55c27c12310307",
+        "projectId": "vWjqbg2GP",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2024-11-13T21:43:43.211Z",
+    "updatedAt": "2024-11-13T21:43:45.748Z",
+    "__v": 1,
+    "id": "Kh3Z_GNx_"
+  },
+  {
+    "_id": "JkBQv4YB-",
+    "name": "Week2",
+    "description": "",
+    "slug": "Week2",
+    "owner": {
+      "_id": "671849c6e3ef29a91fad7941",
+      "username": "mango-jackson-gen1",
+      "id": "671849c6e3ef29a91fad7941"
+    },
+    "items": [
+      {
+        "project": {
+          "_id": "GmzxUn0VB",
+          "name": "W2: Positive/Negative Relationships",
+          "user": {
+            "_id": "5d2357254fe378001e684009",
+            "username": "icm4.0",
+            "id": "5d2357254fe378001e684009"
+          },
+          "slug": "W2:_PositiveNegative_Relationships_copy",
+          "id": "GmzxUn0VB"
+        },
+        "_id": "671e58a2beaffbcc35132524",
+        "createdAt": "2024-10-27T15:13:38.772Z",
+        "updatedAt": "2024-10-27T15:13:38.772Z",
+        "id": "671e58a2beaffbcc35132524",
+        "projectId": "GmzxUn0VB",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "e5Bn6Vwv7",
+          "name": "Wk2_ThicknessVsSpeed",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Week2_ThicknessVsSpeed",
+          "id": "e5Bn6Vwv7"
+        },
+        "_id": "671e712ff46d4aefc0ebda9e",
+        "createdAt": "2024-10-27T16:58:23.016Z",
+        "updatedAt": "2024-10-27T16:58:23.016Z",
+        "id": "671e712ff46d4aefc0ebda9e",
+        "projectId": "e5Bn6Vwv7",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "QlirOiq45",
+          "name": "Wk2_Worksheet2_2",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Worksheet2_2",
+          "id": "QlirOiq45"
+        },
+        "_id": "671e7142fa3c7bc131f723cf",
+        "createdAt": "2024-10-27T16:58:42.151Z",
+        "updatedAt": "2024-10-27T16:58:42.151Z",
+        "id": "671e7142fa3c7bc131f723cf",
+        "projectId": "QlirOiq45",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "QiI_Q02sZ",
+          "name": "Wk2_Worksheet0.1",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "W2:_w2h_corners_copy",
+          "id": "QiI_Q02sZ"
+        },
+        "_id": "671e715edc4429e318ec48bb",
+        "createdAt": "2024-10-27T16:59:10.026Z",
+        "updatedAt": "2024-10-27T16:59:10.026Z",
+        "id": "671e715edc4429e318ec48bb",
+        "projectId": "QiI_Q02sZ",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "WREZzhH9m",
+          "name": "Wk2_Worksheet2_RectMode",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Incredible_lute",
+          "id": "WREZzhH9m"
+        },
+        "_id": "671e716edf1d805ecf3a225f",
+        "createdAt": "2024-10-27T16:59:26.092Z",
+        "updatedAt": "2024-10-27T16:59:26.092Z",
+        "id": "671e716edf1d805ecf3a225f",
+        "projectId": "WREZzhH9m",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "wb1IxLvgf",
+          "name": "Wk2_text",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Slimy_rice",
+          "id": "wb1IxLvgf"
+        },
+        "_id": "671e717bfa3c7bc131f72c16",
+        "createdAt": "2024-10-27T16:59:39.154Z",
+        "updatedAt": "2024-10-27T16:59:39.154Z",
+        "id": "671e717bfa3c7bc131f72c16",
+        "projectId": "wb1IxLvgf",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "NFFMtfaxG",
+          "name": "Wk2_ChangeRadiusWithMouse",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Week2_ChangeRadiusWithMouse",
+          "id": "NFFMtfaxG"
+        },
+        "_id": "671e7185f46d4aefc0ebee36",
+        "createdAt": "2024-10-27T16:59:49.121Z",
+        "updatedAt": "2024-10-27T16:59:49.121Z",
+        "id": "671e7185f46d4aefc0ebee36",
+        "projectId": "NFFMtfaxG",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "SM-tRS_74",
+          "name": "Wk2_ArrowCatchingup",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Week2_ArrowCatchingup",
+          "id": "SM-tRS_74"
+        },
+        "_id": "671e719cdf1d805ecf3a2847",
+        "createdAt": "2024-10-27T17:00:12.572Z",
+        "updatedAt": "2024-10-27T17:00:12.572Z",
+        "id": "671e719cdf1d805ecf3a2847",
+        "projectId": "SM-tRS_74",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "feVYKN7lN",
+          "name": "wk2_smoothlineWithEasing",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Week2_smoothlineWithEasing",
+          "id": "feVYKN7lN"
+        },
+        "_id": "671e71a8df1d805ecf3a2d0e",
+        "createdAt": "2024-10-27T17:00:24.317Z",
+        "updatedAt": "2024-10-27T17:00:24.317Z",
+        "id": "671e71a8df1d805ecf3a2d0e",
+        "projectId": "feVYKN7lN",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "2WyxU_LVf",
+          "name": "wk2_Easing",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Week2_Easing",
+          "id": "2WyxU_LVf"
+        },
+        "_id": "671e71b4df1d805ecf3a3662",
+        "createdAt": "2024-10-27T17:00:36.396Z",
+        "updatedAt": "2024-10-27T17:00:36.396Z",
+        "id": "671e71b4df1d805ecf3a3662",
+        "projectId": "2WyxU_LVf",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "pUXL-iyoD",
+          "name": "wk2_Worksheet2_4",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "wk2_Worksheet2_3",
+          "id": "pUXL-iyoD"
+        },
+        "_id": "671e7c27b707009ccd63958e",
+        "createdAt": "2024-10-27T17:45:11.507Z",
+        "updatedAt": "2024-10-27T17:45:11.507Z",
+        "id": "671e7c27b707009ccd63958e",
+        "projectId": "pUXL-iyoD",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "qhs3B3Q7Y",
+          "name": "wk2_Worksheet_6",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Worksheet_2-6_copy",
+          "id": "qhs3B3Q7Y"
+        },
+        "_id": "671fa07e61a768c8872eb7eb",
+        "createdAt": "2024-10-28T14:32:30.310Z",
+        "updatedAt": "2024-10-28T14:32:30.310Z",
+        "id": "671fa07e61a768c8872eb7eb",
+        "projectId": "qhs3B3Q7Y",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "eNJOxMwf5",
+          "name": "W3_Move the Center of the Rect",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "W2:_Move_the_rect()_towards_the_mouse_copy",
+          "id": "eNJOxMwf5"
+        },
+        "_id": "671fa1407dbc6bb0b33a98c7",
+        "createdAt": "2024-10-28T14:35:44.446Z",
+        "updatedAt": "2024-10-28T14:35:44.446Z",
+        "id": "671fa1407dbc6bb0b33a98c7",
+        "projectId": "eNJOxMwf5",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "IiKmwEs8-",
+          "name": "Wk2_workshseet6",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Wk2_workshseet6",
+          "id": "IiKmwEs8-"
+        },
+        "_id": "6726d7de8bccebb27370ff57",
+        "createdAt": "2024-11-03T01:54:38.868Z",
+        "updatedAt": "2024-11-03T01:54:38.868Z",
+        "id": "6726d7de8bccebb27370ff57",
+        "projectId": "IiKmwEs8-",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2024-10-23T18:11:44.955Z",
+    "updatedAt": "2024-11-03T01:54:38.868Z",
+    "__v": 24,
+    "id": "JkBQv4YB-"
+  },
+  {
+    "_id": "u4HYS25Ac",
+    "name": "Week3",
+    "description": "",
+    "slug": "Week3",
+    "owner": {
+      "_id": "671849c6e3ef29a91fad7941",
+      "username": "mango-jackson-gen1",
+      "id": "671849c6e3ef29a91fad7941"
+    },
+    "items": [
+      {
+        "project": {
+          "_id": "q3ok4m31B",
+          "name": "W3: Bouncing Ball - Works copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "W3:_Bouncing_Ball_-_Works_copy",
+          "id": "q3ok4m31B"
+        },
+        "_id": "671f90f4d56787d9cd0cdba9",
+        "createdAt": "2024-10-28T13:26:12.037Z",
+        "updatedAt": "2024-10-28T13:26:12.037Z",
+        "id": "671f90f4d56787d9cd0cdba9",
+        "projectId": "q3ok4m31B",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "PBPiXOft5",
+          "name": "W3: Bouncing Ball - Doesn't Work copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "W3:_Bouncing_Ball_-_Doesn't_Work_copy",
+          "id": "PBPiXOft5"
+        },
+        "_id": "671f90f861a768c887248c1e",
+        "createdAt": "2024-10-28T13:26:16.318Z",
+        "updatedAt": "2024-10-28T13:26:16.318Z",
+        "id": "671f90f861a768c887248c1e",
+        "projectId": "PBPiXOft5",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "e3PyfsJbZ",
+          "name": "W3_Class_3-columns",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "W3_3-columns_copy",
+          "id": "e3PyfsJbZ"
+        },
+        "_id": "671f90fe61498ca4977deba4",
+        "createdAt": "2024-10-28T13:26:22.204Z",
+        "updatedAt": "2024-10-28T13:26:22.204Z",
+        "id": "671f90fe61498ca4977deba4",
+        "projectId": "e3PyfsJbZ",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "eNJOxMwf5",
+          "name": "W3_Move the Center of the Rect",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "W2:_Move_the_rect()_towards_the_mouse_copy",
+          "id": "eNJOxMwf5"
+        },
+        "_id": "671fa13f7e747eb86587ade1",
+        "createdAt": "2024-10-28T14:35:43.703Z",
+        "updatedAt": "2024-10-28T14:35:43.703Z",
+        "id": "671fa13f7e747eb86587ade1",
+        "projectId": "eNJOxMwf5",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "EIez9CVwK",
+          "name": "Wk3 001: slider()_Mimi",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "W3_001:_slider()_copy",
+          "id": "EIez9CVwK"
+        },
+        "_id": "6726d7c6e12842370d65fd36",
+        "createdAt": "2024-11-03T01:54:14.817Z",
+        "updatedAt": "2024-11-03T01:54:14.817Z",
+        "id": "6726d7c6e12842370d65fd36",
+        "projectId": "EIez9CVwK",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "u_SDqCSv0j",
+          "name": "wk3_worksheet3_bouncing ball",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "wk3_worksheet3_bouncing_ball",
+          "id": "u_SDqCSv0j"
+        },
+        "_id": "6726d7c7aa4079206234c296",
+        "createdAt": "2024-11-03T01:54:15.275Z",
+        "updatedAt": "2024-11-03T01:54:15.275Z",
+        "id": "6726d7c7aa4079206234c296",
+        "projectId": "u_SDqCSv0j",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "D49f7VdtT",
+          "name": "wk3_Worksheet_slider",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "wk3_Worksheet_slider",
+          "id": "D49f7VdtT"
+        },
+        "_id": "6726d7c88bccebb27370f8c9",
+        "createdAt": "2024-11-03T01:54:16.190Z",
+        "updatedAt": "2024-11-03T01:54:16.190Z",
+        "id": "6726d7c88bccebb27370f8c9",
+        "projectId": "D49f7VdtT",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "Ix6BwEAZd",
+          "name": "wk3_LightToggle",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "if_bgColor_copy",
+          "id": "Ix6BwEAZd"
+        },
+        "_id": "6726d7c98bccebb27370f902",
+        "createdAt": "2024-11-03T01:54:17.263Z",
+        "updatedAt": "2024-11-03T01:54:17.263Z",
+        "id": "6726d7c98bccebb27370f902",
+        "projectId": "Ix6BwEAZd",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "Z10YINu2E",
+          "name": "Wk3_work2",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Peridot_armadillo",
+          "id": "Z10YINu2E"
+        },
+        "_id": "6726d7cc8bccebb27370f92e",
+        "createdAt": "2024-11-03T01:54:20.679Z",
+        "updatedAt": "2024-11-03T01:54:20.679Z",
+        "id": "6726d7cc8bccebb27370f92e",
+        "projectId": "Z10YINu2E",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "UPnE1PG63",
+          "name": "ICM - WK3 - opposites with rects reset copy",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "ICM_-_WK3_-_opposites_with_rects_reset_copy",
+          "id": "UPnE1PG63"
+        },
+        "_id": "6726d7ce8bccebb27370f974",
+        "createdAt": "2024-11-03T01:54:22.386Z",
+        "updatedAt": "2024-11-03T01:54:22.386Z",
+        "id": "6726d7ce8bccebb27370f974",
+        "projectId": "UPnE1PG63",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "Lq1Csy8RWy",
+          "name": "WK3_toggle switch",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "ICM_-_WK3_-_toggle_switch_copy",
+          "id": "Lq1Csy8RWy"
+        },
+        "_id": "6726d7cfaa4079206234c704",
+        "createdAt": "2024-11-03T01:54:23.511Z",
+        "updatedAt": "2024-11-03T01:54:23.511Z",
+        "id": "6726d7cfaa4079206234c704",
+        "projectId": "Lq1Csy8RWy",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2024-10-28T13:26:05.901Z",
+    "updatedAt": "2024-11-03T01:54:23.512Z",
+    "__v": 13,
+    "id": "u4HYS25Ac"
+  },
+  {
+    "_id": "72ztRyXWI",
+    "name": "Week4",
+    "description": "",
+    "slug": "Week4",
+    "owner": {
+      "_id": "671849c6e3ef29a91fad7941",
+      "username": "mango-jackson-gen1",
+      "id": "671849c6e3ef29a91fad7941"
+    },
+    "items": [
+      {
+        "project": {
+          "_id": "qXGpNJDzH",
+          "name": "wk4_worksheet4_1.1",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "wk4_worksheet4_1.1",
+          "id": "qXGpNJDzH"
+        },
+        "_id": "6726d7b9aa4079206234c15d",
+        "createdAt": "2024-11-03T01:54:01.720Z",
+        "updatedAt": "2024-11-03T01:54:01.720Z",
+        "id": "6726d7b9aa4079206234c15d",
+        "projectId": "qXGpNJDzH",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "TD8vs_Pod",
+          "name": "W4_Toggle lightswitch_Mimi",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "W4:_Toggle_lightswitch_copy",
+          "id": "TD8vs_Pod"
+        },
+        "_id": "6726d7ba8bccebb27370f7ea",
+        "createdAt": "2024-11-03T01:54:02.306Z",
+        "updatedAt": "2024-11-03T01:54:02.306Z",
+        "id": "6726d7ba8bccebb27370f7ea",
+        "projectId": "TD8vs_Pod",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2024-11-03T01:53:55.915Z",
+    "updatedAt": "2024-11-03T01:54:02.306Z",
+    "__v": 2,
+    "id": "72ztRyXWI"
+  },
+  {
+    "_id": "eLSazQF7k",
+    "name": "Week6",
+    "description": "",
+    "slug": "Week6",
+    "owner": {
+      "_id": "671849c6e3ef29a91fad7941",
+      "username": "mango-jackson-gen1",
+      "id": "671849c6e3ef29a91fad7941"
+    },
+    "items": [
+      {
+        "project": {
+          "_id": "1XjjZUUVvW",
+          "name": "Review_wk6_rectasObject",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "wk6_rectasObject",
+          "id": "1XjjZUUVvW"
+        },
+        "_id": "67351e10d98696271eed7874",
+        "createdAt": "2024-11-13T21:45:52.439Z",
+        "updatedAt": "2024-11-13T21:45:52.439Z",
+        "id": "67351e10d98696271eed7874",
+        "projectId": "1XjjZUUVvW",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "pUXjy6U5p",
+          "name": "Review_wk6_classnote_array",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Review_wk6_classnote_array",
+          "id": "pUXjy6U5p"
+        },
+        "_id": "67351e11d98696271eed7892",
+        "createdAt": "2024-11-13T21:45:53.152Z",
+        "updatedAt": "2024-11-13T21:45:53.152Z",
+        "id": "67351e11d98696271eed7892",
+        "projectId": "pUXjy6U5p",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2024-11-13T21:45:40.940Z",
+    "updatedAt": "2024-11-13T21:45:53.152Z",
+    "__v": 2,
+    "id": "eLSazQF7k"
+  },
+  {
+    "_id": "91UzGc-vi",
+    "name": "Week7",
+    "description": "",
+    "slug": "Week7",
+    "owner": {
+      "_id": "671849c6e3ef29a91fad7941",
+      "username": "mango-jackson-gen1",
+      "id": "671849c6e3ef29a91fad7941"
+    },
+    "items": [
+      {
+        "project": {
+          "_id": "Rj6F3RmIa",
+          "name": "wk7_ charon earth grid",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "wk7_charon_earth_grid",
+          "id": "Rj6F3RmIa"
+        },
+        "_id": "67351dc60b55c27c1231228c",
+        "createdAt": "2024-11-13T21:44:38.570Z",
+        "updatedAt": "2024-11-13T21:44:38.570Z",
+        "id": "67351dc60b55c27c1231228c",
+        "projectId": "Rj6F3RmIa",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2024-11-13T21:44:29.338Z",
+    "updatedAt": "2024-11-13T21:44:38.570Z",
+    "__v": 1,
+    "id": "91UzGc-vi"
+  },
+  {
+    "_id": "t2dOAd6qt",
+    "name": "Week8",
+    "description": "",
+    "slug": "Week8",
+    "owner": {
+      "_id": "671849c6e3ef29a91fad7941",
+      "username": "mango-jackson-gen1",
+      "id": "671849c6e3ef29a91fad7941"
+    },
+    "items": [
+      {
+        "project": {
+          "_id": "fRZX8fxaX",
+          "name": "Wk8_Class_Slit-Scan Video2_Advanced",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Slit-Scan_Video_copy",
+          "id": "fRZX8fxaX"
+        },
+        "_id": "67351da9adb3f546ea46f3fc",
+        "createdAt": "2024-11-13T21:44:09.748Z",
+        "updatedAt": "2024-11-13T21:44:09.748Z",
+        "id": "67351da9adb3f546ea46f3fc",
+        "projectId": "fRZX8fxaX",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "1myDSlc3T",
+          "name": "wk8_ws8_3",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "wk8_ws8_3",
+          "id": "1myDSlc3T"
+        },
+        "_id": "67351daeadb3f546ea46f478",
+        "createdAt": "2024-11-13T21:44:14.835Z",
+        "updatedAt": "2024-11-13T21:44:14.835Z",
+        "id": "67351daeadb3f546ea46f478",
+        "projectId": "1myDSlc3T",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "dxwslBIRp",
+          "name": "Wk8_ws8_2",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Wk8_ws8_2",
+          "id": "dxwslBIRp"
+        },
+        "_id": "67351dafd98696271eed3d52",
+        "createdAt": "2024-11-13T21:44:15.703Z",
+        "updatedAt": "2024-11-13T21:44:15.703Z",
+        "id": "67351dafd98696271eed3d52",
+        "projectId": "dxwslBIRp",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "Y-NSnR-g9",
+          "name": "wk8_ws8_2",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "wk8_ws8_2",
+          "id": "Y-NSnR-g9"
+        },
+        "_id": "67351db2d98696271eed3da8",
+        "createdAt": "2024-11-13T21:44:18.329Z",
+        "updatedAt": "2024-11-13T21:44:18.329Z",
+        "id": "67351db2d98696271eed3da8",
+        "projectId": "Y-NSnR-g9",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2024-11-13T21:44:01.741Z",
+    "updatedAt": "2024-11-13T21:44:18.329Z",
+    "__v": 4,
+    "id": "t2dOAd6qt"
+  },
+  {
+    "_id": "Tj4OiEwCM",
+    "name": "Week9",
+    "description": "",
+    "slug": "Week9",
+    "owner": {
+      "_id": "671849c6e3ef29a91fad7941",
+      "username": "mango-jackson-gen1",
+      "id": "671849c6e3ef29a91fad7941"
+    },
+    "items": [
+      {
+        "project": {
+          "_id": "ohzAAhMs3",
+          "name": "Wk9_Class_Delay",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Delay_copy",
+          "id": "ohzAAhMs3"
+        },
+        "_id": "67351dd7adb3f546ea47072a",
+        "createdAt": "2024-11-13T21:44:55.817Z",
+        "updatedAt": "2024-11-13T21:44:55.817Z",
+        "id": "67351dd7adb3f546ea47072a",
+        "projectId": "ohzAAhMs3",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "isWtcvgsK",
+          "name": "Wk9_Class_Slit-Scan",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Slit-Scan_copy",
+          "id": "isWtcvgsK"
+        },
+        "_id": "67351dd9adb3f546ea4708bf",
+        "createdAt": "2024-11-13T21:44:57.251Z",
+        "updatedAt": "2024-11-13T21:44:57.251Z",
+        "id": "67351dd9adb3f546ea4708bf",
+        "projectId": "isWtcvgsK",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "QVx9BtoHr",
+          "name": "Wk9_Class_Mirrored Mirror",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Mirrored_Mirror_copy",
+          "id": "QVx9BtoHr"
+        },
+        "_id": "67351ddaadb3f546ea470901",
+        "createdAt": "2024-11-13T21:44:58.194Z",
+        "updatedAt": "2024-11-13T21:44:58.194Z",
+        "id": "67351ddaadb3f546ea470901",
+        "projectId": "QVx9BtoHr",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "ovGkuAo_X",
+          "name": "Wk9_Pixels_Spotlight_fisheye effect",
+          "user": {
+            "_id": "671849c6e3ef29a91fad7941",
+            "username": "mango-jackson-gen1",
+            "id": "671849c6e3ef29a91fad7941"
+          },
+          "slug": "Spotlight_copy",
+          "id": "ovGkuAo_X"
+        },
+        "_id": "67351ddb0b55c27c12313026",
+        "createdAt": "2024-11-13T21:44:59.150Z",
+        "updatedAt": "2024-11-13T21:44:59.150Z",
+        "id": "67351ddb0b55c27c12313026",
+        "projectId": "ovGkuAo_X",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2024-11-13T21:44:50.205Z",
+    "updatedAt": "2024-11-13T21:44:59.150Z",
+    "__v": 4,
+    "id": "Tj4OiEwCM"
+  }
+]

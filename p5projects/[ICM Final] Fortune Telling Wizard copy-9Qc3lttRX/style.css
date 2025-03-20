@@ -1,0 +1,85 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+/* General styles */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: white;
+  font-family: 'Cinzel', serif;
+}
+
+/* Button styles */
+button {
+  font-size: 22px;
+  font-family: 'MedievalSharp', serif;
+  font-weight: bold;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+button#startOverButton {
+  margin-top: 20px;
+}
+
+/* Input fields styles */
+input {
+  font-size: 18px;
+  font-family: 'Cinzel', serif;
+  font-weight: bold;
+  margin-top: 10px;
+  width: 400px;
+}
+
+/* Label styles */
+#nameLabel, #questionLabel, #birthYearLabel {
+  font-size: 20px;
+  color: white;
+  font-family: 'MedievalSharp', serif;
+  display: block;
+  margin-bottom: 10px;
+}
+
+/* Output text style */
+#myOutput {
+  font-size: 28px;
+  font-family: 'MedievalSharp', serif;
+  text-align: center;
+  width: 70%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  line-height: 1.6;
+  display: none;
+}
+
+/* Dropdown menu styles */
+select {
+  font-family: 'Cinzel', serif;
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 10px;
+  width: 400px;
+}
+
+.fortune-header {
+  font-family: 'MedievalSharp', serif;
+  font-size: 50px;
+  font-weight: bold;
+  letter-spacing: 5px;
+  color: gold; 
+  position: absolute;
+  text-align: center;
+  top: 20%;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10;
+}
+
